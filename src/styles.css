@@ -1,0 +1,12 @@
+/* src/styles.css */
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background: #f5f5f5;
+}
+.app h1 {
+  text-align: center;
+}
+button {
+  margin-left: 10px;
+}
